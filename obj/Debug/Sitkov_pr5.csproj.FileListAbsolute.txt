@@ -1,0 +1,7 @@
+C:\System\Sitkov_pr5\bin\Debug\Sitkov_pr5.exe.config
+C:\System\Sitkov_pr5\bin\Debug\Sitkov_pr5.exe
+C:\System\Sitkov_pr5\bin\Debug\Sitkov_pr5.pdb
+C:\System\Sitkov_pr5\obj\Debug\Sitkov_pr5.csproj.AssemblyReference.cache
+C:\System\Sitkov_pr5\obj\Debug\Sitkov_pr5.csproj.CoreCompileInputs.cache
+C:\System\Sitkov_pr5\obj\Debug\Sitkov_pr5.exe
+C:\System\Sitkov_pr5\obj\Debug\Sitkov_pr5.pdb
